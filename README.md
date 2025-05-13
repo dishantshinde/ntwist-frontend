@@ -41,6 +41,7 @@ A simple multi-page frontend project demonstrating fundamental HTML, CSS, and Ja
 
 ## 📁 Folder Structure
 
+```
 project-root/
 │
 ├── index.html # Contact Form Page
@@ -54,6 +55,7 @@ project-root/
 │ └── js/
 │ ├── form.js # Handles form submission and modal
 │ └── sort.js # Handles sorting and resetting list
+```
 
 ---
 
